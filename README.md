@@ -1,2 +1,2 @@
-# IBS
+# IBS Projects
 IBS Projects
